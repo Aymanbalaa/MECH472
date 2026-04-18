@@ -1,0 +1,2 @@
+C:\Users\ayman\Downloads\MECH472\robot_A_offence\Debug\program.exe
+C:\Users\ayman\Downloads\MECH472\robot_B_player2\Debug\program.exe

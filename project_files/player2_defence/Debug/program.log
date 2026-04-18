@@ -1,0 +1,3 @@
+﻿  program.cpp
+image_transfer.lib(Video_IO.obj) : warning LNK4099: PDB 'program.pdb' was not found with 'image_transfer.lib(Video_IO.obj)' or at 'C:\Users\ayman\OneDrive\Documents\mech_472_clean\project_files\player2_defence\Debug\program.pdb'; linking object as if no debug info
+  program.vcxproj -> C:\Users\ayman\OneDrive\Documents\mech_472_clean\project_files\player2_defence\Debug\program.exe

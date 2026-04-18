@@ -1,0 +1,16 @@
+﻿  program.cpp
+  robot.cpp
+  robot_ai.cpp
+  shared_memory.cpp
+  timer.cpp
+  update_simulation.cpp
+  vision.cpp
+  vision_simulation.cpp
+C:\Users\ayman\OneDrive\Documents\mech_472_clean\project_files\vision_simulation.cpp(495,24): warning C4101: 'q4': unreferenced local variable
+C:\Users\ayman\OneDrive\Documents\mech_472_clean\project_files\vision_simulation.cpp(495,14): warning C4101: 'q2': unreferenced local variable
+C:\Users\ayman\OneDrive\Documents\mech_472_clean\project_files\vision_simulation.cpp(495,29): warning C4101: 'q5': unreferenced local variable
+C:\Users\ayman\OneDrive\Documents\mech_472_clean\project_files\vision_simulation.cpp(495,19): warning C4101: 'q3': unreferenced local variable
+  Generating Code...
+image_transfer.lib(image_transfer.obj) : warning LNK4099: PDB 'program.pdb' was not found with 'image_transfer.lib(image_transfer.obj)' or at 'C:\Users\ayman\OneDrive\Documents\mech_472_clean\project_files\Debug\program.pdb'; linking object as if no debug info
+image_transfer.lib(Video_IO.obj) : warning LNK4099: PDB 'program.pdb' was not found with 'image_transfer.lib(Video_IO.obj)' or at 'C:\Users\ayman\OneDrive\Documents\mech_472_clean\project_files\Debug\program.pdb'; linking object as if no debug info
+  program.vcxproj -> C:\Users\ayman\OneDrive\Documents\mech_472_clean\project_files\Debug\program.exe

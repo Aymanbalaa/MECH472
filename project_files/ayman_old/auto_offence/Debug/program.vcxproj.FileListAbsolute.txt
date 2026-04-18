@@ -1,0 +1,2 @@
+C:\Users\ayman\Downloads\MECH472\vision_simulator_3.77\examples\regular_environment\manual_opponent\Debug\program.exe
+C:\Users\ayman\Downloads\MECH472\auto_offence\Debug\program.exe
