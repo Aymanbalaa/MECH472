@@ -386,8 +386,8 @@ int main()
     // --- simulation setup (must match player2) ---
     double width1 = IMG_W, height1 = IMG_H;
     const int N_obs = 2;
-    double x_obs[N_obs] = { 320, 320 }; //270.5 135 
-    double y_obs[N_obs] = { 240, 240 };
+    double x_obs[N_obs] = { 120, 320 }; //270.5 135 
+    double y_obs[N_obs] = { 120, 320 };
     char obstacle_file[N_obs][S_MAX] = {
         "obstacle_black.bmp", "obstacle_green.bmp"
     };
@@ -396,7 +396,7 @@ int main()
     int n_robot = 2;
 
     int pw_l = 1500, pw_r = 1500, pw_laser = 1500, laser = 0;
-    double max_speed = 180.0;
+    double max_speed = 120.0;
 
     // --- vision state ---
     double opp_nav_ic = IMG_W/2.0, opp_nav_jc = IMG_H/2.0;

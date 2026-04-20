@@ -70,11 +70,11 @@ int update_obstacles()
 	//x_obs[1] = 320 + 195*cos(0.15*t);
 	//y_obs[1] = 240 + 195*sin(0.15*t);	
 
-	x_obs[0] = 320;
-	y_obs[0] = 240;
+	x_obs[0] = 120;
+	y_obs[0] = 120;
 
 	x_obs[1] = 320;
-	y_obs[1] = 240;
+	y_obs[1] = 320;
 	
 	// end of section you can modify //////////////////////////
 	// * don't modify the function past this point ////////////
