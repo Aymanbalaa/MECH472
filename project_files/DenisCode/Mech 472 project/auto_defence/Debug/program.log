@@ -1,0 +1,15 @@
+﻿  program.cpp
+  robot.cpp
+  shared_memory.cpp
+  timer.cpp
+  update_simulation.cpp
+  vision.cpp
+  vision_simulation.cpp
+C:\Users\ayman\Downloads\Mech 472 project\Mech 472 project\auto_defence\vision_simulation.cpp(499,27): warning C4101: 'q4': unreferenced local variable
+C:\Users\ayman\Downloads\Mech 472 project\Mech 472 project\auto_defence\vision_simulation.cpp(499,15): warning C4101: 'q2': unreferenced local variable
+C:\Users\ayman\Downloads\Mech 472 project\Mech 472 project\auto_defence\vision_simulation.cpp(499,33): warning C4101: 'q5': unreferenced local variable
+C:\Users\ayman\Downloads\Mech 472 project\Mech 472 project\auto_defence\vision_simulation.cpp(499,21): warning C4101: 'q3': unreferenced local variable
+  Generating Code...
+image_transfer.lib(image_transfer.obj) : warning LNK4099: PDB 'program.pdb' was not found with 'image_transfer.lib(image_transfer.obj)' or at 'C:\Users\ayman\Downloads\Mech 472 project\Mech 472 project\auto_defence\Debug\program.pdb'; linking object as if no debug info
+image_transfer.lib(Video_IO.obj) : warning LNK4099: PDB '' was not found with 'image_transfer.lib(Video_IO.obj)' or at ''; linking object as if no debug info
+  program.vcxproj -> C:\Users\ayman\Downloads\Mech 472 project\Mech 472 project\auto_defence\Debug\program.exe
