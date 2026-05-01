@@ -59,8 +59,8 @@ int main()
 	double width1 = 640, height1 = 480;
 	const int N_obs = 2;
 
-	double x_obs[N_obs] = { 200, 440.0 };
-	double y_obs[N_obs] = { 180, 300.0 };
+	double x_obs[N_obs] = { 320, 440.0 };
+	double y_obs[N_obs] = { 240, 300.0 };
 	char obstacle_file[N_obs][S_MAX] = {
 		"obstacle_black.bmp", "obstacle_green.bmp"
 	};
